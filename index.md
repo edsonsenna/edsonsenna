@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <div class="name">\<Edson de Senna Junior \/\></div>
+    <div class="name">Edson de Senna Junior</div>
     <div class="warning">Under construction...</div>
 </body>
 </html>
