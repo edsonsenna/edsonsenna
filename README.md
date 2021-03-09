@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭  I’m currently working on a Angular Project and GCP to use Strava Infos to provide feedbacks to users.
+- 🔭  I’m currently working on an Angular Project and GCP to use Strava Infos to provide feedbacks to users.
 - 🌱  I’m currently learning Unit Tests, React and Redux.
 - 👯  I’m looking to collaborate on Angular, React or Vanilla JavaScript repos.
 - 🤔  I’m looking for a Remote Job in some company located in Europe.
